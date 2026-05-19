@@ -2,8 +2,8 @@
 
 ## ScreenShots
 
-![Light theme](image.png)
-![alt text](image-2.png)
+<img src="./image.png" width="400" />
+<img src="./image-2.png" width="400" />
 
 ## Features
 
@@ -36,9 +36,18 @@ npm run dev
 
 ## Project Structure
 
-src/
-├── components/
-├── hooks/
-├── pages/
-├── styles/
-└── utils/
+### src/
+
+#### ├── components/
+
+#### ├── hooks/
+
+#### ├── pages/
+
+#### ├── styles/
+
+#### └── utils/
+
+## Author
+
+GitHub[https://github.com/vdreamingb](https://github.com/vdreamingb)
