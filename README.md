@@ -1,1 +1,21 @@
-# React-Calculator - a simple 
+# React-Calculator - a simple app for everyday calculations
+
+## ScreenShots
+
+![Light theme](image.png)
+![alt text](image-2.png)
+
+## Features
+- Basic math operations
+- History saving
+- Real time result
+- Supports dark and light themes
+- Responsive design
+
+## Tech stack
+- React
+- TypeScript
+- Vite
+- CSS
+- math.js
+- React Testing Library & vitest
