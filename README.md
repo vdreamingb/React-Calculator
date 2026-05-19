@@ -50,4 +50,4 @@ npm run dev
 
 ## Author
 
-GitHub[https://github.com/vdreamingb](https://github.com/vdreamingb)
+GitHub: [https://github.com/vdreamingb](https://github.com/vdreamingb)
