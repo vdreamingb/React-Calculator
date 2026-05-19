@@ -32,9 +32,8 @@
  ```
 
  ## Project structure
- -src/
+ - src/
  -- components/
  -- context/
  -- shared/
  --- utils/
- 
