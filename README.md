@@ -6,6 +6,7 @@
 ![alt text](image-2.png)
 
 ## Features
+
 - Basic math operations
 - History saving
 - Real time result
@@ -13,6 +14,7 @@
 - Responsive design
 
 ## Tech stack
+
 - React
 - TypeScript
 - Vite
@@ -21,19 +23,22 @@
 - React Testing Library & vitest
 
 ## Installation
- ```bash
- git clone https://github.com/vdreamingb/React-Calculator
 
- cd React-Calculator
+```bash
+git clone https://github.com/vdreamingb/React-Calculator
 
- npm install 
+cd React-Calculator
 
- npm run dev
- ```
+npm install
 
- ## Project structure
- - src/
- -- components/
- -- context/
- -- shared/
- --- utils/
+npm run dev
+```
+
+## Project Structure
+
+src/
+├── components/
+├── hooks/
+├── pages/
+├── styles/
+└── utils/
