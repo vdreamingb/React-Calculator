@@ -19,3 +19,22 @@
 - CSS
 - math.js
 - React Testing Library & vitest
+
+## Installation
+ ```bash
+ git clone https://github.com/vdreamingb/React-Calculator
+
+ cd React-Calculator
+
+ npm install 
+
+ npm run dev
+ ```
+
+ ## Project structure
+ -src/
+ -- components/
+ -- context/
+ -- shared/
+ --- utils/
+ 
